@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApplication</string>
+    <string name="search">search</string>
+    <string name="retry">Retry</string>
+    <string name="no_results">Result not found</string>
+</resources>
+
